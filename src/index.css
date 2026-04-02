@@ -5,7 +5,7 @@ body{
     url('/public/img/background.jpg');
     background-blend-mode: Luminosity;
     background-position: center;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 p,a,tr,h4,h5,h6,em{
